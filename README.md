@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hi , I'm Hossein Asadian </b>:wave:</h1>
 
 <h3 align="center">
-  Back-End Developer at <a href="https://tabtarh.com">tabtarh</a>
+  Back-End Developer at <a href="https://tabtarh.com" target="_blank">tabtarh</a>
 </h3>
 
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
