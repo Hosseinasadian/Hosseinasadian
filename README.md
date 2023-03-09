@@ -4,6 +4,19 @@
   Back-End Developer at <a href="https://tabtarh.com" target="_blank">tabtarh</a>
 </h3>
 
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+
+<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+
+<br>
+
+- Has 3 years of PHP development experience
+- Write clean, efficient, and well-documented code
+- Adept at contributing to a highly collabrative work environment
+- Fnding solutions and determining customer satisfication
+
+<br><br>
+
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
 
