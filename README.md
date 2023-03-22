@@ -10,10 +10,12 @@
 
 <br>
 
-- Has 3 years of PHP development experience
+- A highly skilled PHP Backend Developer with over 3 years of experience in developing and maintaining web applications
+- Proficient in PHP, MySQL, Laravel.
+- Experienced in developing RESTful APIs and integrating third-party APIs.
 - Write clean, efficient, and well-documented code
 - Adept at contributing to a highly collabrative work environment
-- Fnding solutions and determining customer satisfication
+- Excellent problem-solving and analytical skills with a strong attention to detail.
 
 <br><br>
 
