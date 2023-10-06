@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hi :wave:, I'm Hossein Asadian </b></h1>
 
 <h3 align="center">
-  Back-End Developer at <a href="https://tabtarh.com" target="_blank">tabtarh</a>
+  Back-End Developer as Freelancer
 </h3>
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
